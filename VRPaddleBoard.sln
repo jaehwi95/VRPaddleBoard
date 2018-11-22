@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRPaddleBoard", "VRPaddleBoard.csproj", "{EF928273-05B6-B01F-8306-537FCE0A8FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRPaddleBoard.Plugins", "VRPaddleBoard.Plugins.csproj", "{93F1BDC4-D9DC-C173-D5A1-5E2562B640A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRPaddleBoard.Editor", "VRPaddleBoard.Editor.csproj", "{5E1D28B4-F04F-3282-B105-AC5EC4E83C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF928273-05B6-B01F-8306-537FCE0A8FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF928273-05B6-B01F-8306-537FCE0A8FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF928273-05B6-B01F-8306-537FCE0A8FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF928273-05B6-B01F-8306-537FCE0A8FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F1BDC4-D9DC-C173-D5A1-5E2562B640A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F1BDC4-D9DC-C173-D5A1-5E2562B640A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F1BDC4-D9DC-C173-D5A1-5E2562B640A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F1BDC4-D9DC-C173-D5A1-5E2562B640A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1D28B4-F04F-3282-B105-AC5EC4E83C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1D28B4-F04F-3282-B105-AC5EC4E83C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1D28B4-F04F-3282-B105-AC5EC4E83C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1D28B4-F04F-3282-B105-AC5EC4E83C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
