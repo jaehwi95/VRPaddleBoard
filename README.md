@@ -1,2 +1,2 @@
 # VRPaddleBoard
-Paddleboarding game that movates those going through physical rehabilitaon by tesng their balance in VR (Unity3D)
+Paddleboarding game that motivates those going through physical rehabilitation by testing their balance in VR (Unity3D)
